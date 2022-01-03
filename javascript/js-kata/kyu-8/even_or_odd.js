@@ -3,7 +3,7 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 */
 
 
-function even_or_odd(number) {
+function evenOrOdd(number) {
   if (number % 2 === 0) {
     return "Even";
   }
@@ -15,6 +15,6 @@ function even_or_odd(number) {
 
 
 // Use ternary operator
-function even_or_odd_2(number){
+function evenOrOdd2(number){
     return number % 2 === 0 ? 'Even' : "Odd";
 }
