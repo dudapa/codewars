@@ -13,7 +13,7 @@ Examples:
 
 from collections import Counter
 
-
+# Use python dictionary to solve the problem
 def find_it(seq):
     my_dict = {}
     for i in seq:
