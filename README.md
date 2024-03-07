@@ -2,7 +2,7 @@
 
 Welcome to my Codewars Challenge Solutions repository! This project showcases my solutions to various programming challenges from Codewars, implemented in both Python and JavaScript. Feel free to explore the solutions, learn from them, and provide any feedback you may have.
 
-![Codewars]([http://url/to/img.png](https://i.imgur.com/2LTDqtO.png))
+![Codewars]([(https://i.imgur.com/2LTDqtO.png)])
 
 ## About Codewars
 
