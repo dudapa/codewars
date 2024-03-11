@@ -25,7 +25,7 @@ function findOdd(A) {
   }
 
 
-const result = findOdd([0,1,0,1,0]);
+// const result = findOdd([0,1,0,1,0]);
 
 
 // Solution with find and filter method
@@ -34,4 +34,4 @@ function findOdd2(A) {
     return A.find(item => A.filter( ele => ele === item).length % 2 !== 0);
 }
 
-const result2 = findOdd2([1,2,2,3,3,3,4,3,3,3,2,2,1]);
+// const result2 = findOdd2([1,2,2,3,3,3,4,3,3,3,2,2,1]);
