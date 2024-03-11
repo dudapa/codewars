@@ -33,5 +33,5 @@ function recursiveDigitalRoot(n) {
     return recursiveDigitalRoot(sumOfDigits);
 }
 
-const result = recursiveDigitalRoot(132189);
-console.log(result)
+//const result = recursiveDigitalRoot(132189);
+//console.log(result)
