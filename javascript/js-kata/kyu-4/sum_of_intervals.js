@@ -64,9 +64,7 @@ function sumIntervals(intervals) {
         }
 
         sumOfIntervals += high[j] - low[i];
-        console.log(i)
         i = j = k + 1;
-        console.log(i)
     } 
     return sumOfIntervals; 
 }
